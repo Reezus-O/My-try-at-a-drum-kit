@@ -1,0 +1,8 @@
+write a function that checks for the the key that is pressed
+take the key that was pressed and run it through the switch statement 
+play the sound that is meant to be played for the keyboard press & the clicks 
+
+
+function that will check for the key is pressed it will return event
+
+
